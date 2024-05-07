@@ -31,11 +31,12 @@ Matrix-vector multiplication is a fundamental operation in linear algebra and ma
 
 To compile the code, use the provided Makefile:
 
-```bash
+->bash
 make
 
 This will generate the executable file 'optimized'. Then run ./optimized.
 The program will execute and output the reuslts.
+
 
 ## Results
 
